@@ -7,8 +7,8 @@
 </script>
 
 <Navbar />
-<main class="flex-grow relative overflow-hidden">
+<main class="relative flex-grow overflow-hidden">
 	{@render children()}
 </main>
-<Scroll  />
+<Scroll />
 <Footer />
